@@ -17,3 +17,8 @@ Bank Management Application developed using ASP.NET and SQL Server that enables 
 1. Open the project in Visual Studio
 2. Configure SQL Server connection
 3. Run the application
+
+## Database Setup
+- Create a database in SQL Server
+- Run the `BankDB.sql` script to create tables and sample data
+- Update `Web.config` with your connection string
