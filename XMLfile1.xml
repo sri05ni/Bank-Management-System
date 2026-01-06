@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl Width="50px" height="50px">image/ad1.png</ImageUrl>
+		<Impression>100</Impression>
+		<AlternateText>scheme1</AlternateText>
+	</Ad>
+	<Ad>
+		<ImageUrl Width="50px" height="50px">image/ad3.png</ImageUrl>
+		<Impression>100</Impression>
+		<AlternateText>scheme2</AlternateText>
+	</Ad>
+</Advertisements>
